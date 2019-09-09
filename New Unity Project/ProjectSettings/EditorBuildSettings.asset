@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MazeWithHampo.unity
+    guid: 168c9350b11b6674f9f01fed7a370f95
   m_configObjects: {}
