@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ClickToMove.cs" />
+    <Compile Include="Assets\Scripts\HitScan.cs" />
     <Compile Include="Assets\Scripts\MoveToTarget.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/GitRepo/Navigation/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

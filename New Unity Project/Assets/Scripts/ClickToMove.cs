@@ -83,6 +83,6 @@ public class ClickToMove : MonoBehaviour
 
         // This is optional, just to display a blue line to where the player is
         // going. It makes it easier to see the result.
-        Debug.DrawLine(transform.position, targetPosition, Color.blue);
+        //Debug.DrawLine(transform.position, targetPosition, Color.blue);
     }
 }
